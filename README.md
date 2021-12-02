@@ -1,7 +1,7 @@
 ### Hello there. Im Jonathan
 
 ## A few things about me
-- Currently studying at Aalborg University, Denmark for my master's degree in [VISION, GRAPHICS AND INTERACTIVE SYSTEMS][vgis]
+- Currently studying at Aalborg University, Denmark for my master's degree in ROBOTICS[rob]
 - working with machine learning and computer vision.
 <br />
 
@@ -12,12 +12,13 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="ROS" width="26px" src="https://stanleyinnovation.com/wp-content/uploads/2015/03/Introducing-the-New-ROS-Integrated-Segway-RMP-Line1-731x265.jpg" />
 
 <br />
 
 ---
 
-[vgis]: https://www.en.aau.dk/education/master/vision-graphics-interactive-systems/
+[rob]: https://www.en.aau.dk/education/master/robotics
 
 
 
