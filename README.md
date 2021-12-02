@@ -2,7 +2,7 @@
 
 ## A few things about me
 - Currently studying at Aalborg University, Denmark for my master's degree in [ROBOTICS][rob]
-- working with machine learning and computer vision.
+- working with machine learning, computer vision, and mobile robots.
 <br />
 
 ### Languages and Tools:
