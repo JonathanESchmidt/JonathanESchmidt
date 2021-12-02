@@ -1,7 +1,7 @@
 ### Hello there. Im Jonathan
 
 ## A few things about me
-- Currently studying at Aalborg University, Denmark for my master's degree in ROBOTICS[rob]
+- Currently studying at Aalborg University, Denmark for my master's degree in [ROBOTICS][rob]
 - working with machine learning and computer vision.
 <br />
 
