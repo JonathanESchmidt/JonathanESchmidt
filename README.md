@@ -1,7 +1,7 @@
 ### Hello there. I'm Jonathan
 
 ## A few things about me
-- Currently studying at Aalborg University, Denmark for my master's degree in [ROBOTICS][rob]
+- Currently working at Aalborg University, Denmark, in the [Visual Analysis and Perception Lab][VAP]
 - working with machine learning, computer vision, and mobile robots.
 <br />
 
@@ -19,6 +19,7 @@
 ---
 
 [rob]: https://www.en.aau.dk/education/master/robotics
+[VAP]: https://vap.aau.dk/
 
 
 
