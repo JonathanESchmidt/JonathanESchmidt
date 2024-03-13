@@ -1,8 +1,9 @@
 ### Hello there. I'm Jonathan
 
 ## A few things about me
-- Currently working at Aalborg University, Denmark, in the [Visual Analysis and Perception Lab][VAP]
-- working with machine learning, computer vision, and mobile robots.
+- 🔭 Currently pursuing a PhD at Technical University of Denmark in Assurance of AI-based Multi-modal Perception Systems for Situation Awareness
+- Previously worked at Aalborg University, Denmark, in the [Visual Analysis and Perception Lab][VAP]
+- 👯 I'm looking to collaborate on systems for perception within navigation in difficult environments and adverse weather
 <br />
 
 ### Languages and Tools:
